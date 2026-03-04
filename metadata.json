@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Voice Practice",
+  "description": "A real-time voice conversation app to practice English speaking for IELTS.",
+  "requestFramePermissions": ["microphone"]
+}
